@@ -20,6 +20,8 @@ resources:
 
 skip_files:
   - README.md
+  - deploy.sh
+  - .gitignore
 
 handlers:
   - url: /.*
